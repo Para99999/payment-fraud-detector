@@ -1,0 +1,29 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Fine-tuning
+peft>=0.7.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+
+# API and UI
+fastapi>=0.104.0
+uvicorn>=0.24.0
+streamlit>=1.28.0
+pydantic>=2.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+tqdm>=4.66.0
+kaggle>=1.5.16
+
+# Model Explainability
+shap>=0.43.0

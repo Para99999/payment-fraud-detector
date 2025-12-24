@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/*.csv
+data/*.txt
+data/*.json
+data/*.parquet
+
+# Models
+models/*.pt
+models/*.pth
+models/*.ckpt
+models/finetuned/*.pt
+
+# Evaluation
+evaluation/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs
+training_curves.png
+finetuning_curves.png
+
+# Kaggle
+.kaggle/
+kaggle.json
+
+# Archive
+archive/
+
+# Batch scripts
+*.bat
